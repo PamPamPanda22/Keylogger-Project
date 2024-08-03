@@ -10,4 +10,4 @@ Features
 
 Requirements
   - Install Python
-  - Download the pynput library using the command <pip install pynput> in your terminal 
+  - Download the pynput library using the command "pip install pynput" in your terminal 
